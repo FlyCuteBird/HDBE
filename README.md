@@ -1,6 +1,5 @@
 # HDBE
 The Code of Exploring High-Dimensional Ball Embedding for Image-text Retrieval
-# The code is build on PCME (Probabilistic Cross-Modal Embedding (PCME) CVPR 2021) https://github.com/naver-ai/pcme
 
 ## Installation
 
