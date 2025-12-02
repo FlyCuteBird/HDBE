@@ -1,0 +1,13 @@
+fire
+tqdm
+munch
+matplotlib
+numpy
+nltk
+Pillow
+pycocotools
+torch
+torchvision
+torchtext
+adamp
+scipy
