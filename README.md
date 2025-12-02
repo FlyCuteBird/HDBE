@@ -9,9 +9,10 @@ Install dependencies using the following command.
 pip install cython && pip install -r requirements.txt
 python -c 'import nltk; nltk.download("punkt")'
 ```
+```
 import nltk
 nltk.download('punkt_tab')
-  
+``` 
 ## Dataset preparation
 
 ### COCO Caption
